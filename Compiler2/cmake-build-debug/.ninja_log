@@ -1,0 +1,20 @@
+# ninja log v5
+15	340	7071591939600301	CMakeFiles/Front.dir/src/front/token.cpp.obj	199837445dd9352e
+8	867	7071591944870304	CMakeFiles/Front.dir/src/front/abstract_syntax_tree.cpp.obj	a415eb83c63a7ad5
+342	1255	7071591948750297	CMakeFiles/compiler.dir/main.cpp.obj	1e35f588d804ec68
+10	822	7071591944410296	CMakeFiles/Front.dir/src/front/lexical.cpp.obj	8387225807d3ec3b
+13	922	7071591945420296	CMakeFiles/Front.dir/src/front/syntax.cpp.obj	45eb5944e11528da
+1	2241	7071591958571095	CMakeFiles/jsoncpp.dir/src/third_party/jsoncpp/jsoncpp.cpp.obj	e91153edf618a48b
+5	1515	7075972855940591	CMakeFiles/Front.dir/src/front/semantic.cpp.obj	e63b6935edc2ca2c
+1515	1728	7075972858111613	../bin/libFront.a	e170eb6f851f8549
+2242	2601	7071591962240159	../bin/libjsoncpp.a	e3ed92d7e3bf3f95
+18	356	7075980334031903	CMakeFiles/IR.dir/src/ir/ir_operand.cpp.obj	5f37f25830bbdc76
+1073	1602	7075980346445650	../bin/compiler.exe	94521d729f58c681
+12	366	7075980334131899	CMakeFiles/IR.dir/src/ir/ir_operator.cpp.obj	287aa6435af85fcd
+683	771	7075980338201894	../bin/libIR.a	ba7bd26d3163718d
+8	472	7075980335201979	CMakeFiles/IR.dir/src/ir/ir_instruction.cpp.obj	14e161cad4aef293
+4	533	7075980335791900	CMakeFiles/IR.dir/src/ir/ir_function.cpp.obj	7cb30d4174facb4d
+357	649	7075980336941917	CMakeFiles/IR.dir/src/ir/type.cpp.obj	f654dbb5cd9852c9
+15	683	7075980337302059	CMakeFiles/IR.dir/src/ir/ir_program.cpp.obj	857b0f43ff7560b
+21	1005	7075980340521909	CMakeFiles/Tools.dir/src/tools/ir_executor.cpp.obj	2c6ccc87e57cd949
+1005	1073	7075980341224366	../bin/libTools.a	8102c7cdc60fa302

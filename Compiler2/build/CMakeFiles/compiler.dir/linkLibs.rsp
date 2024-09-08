@@ -1,0 +1,1 @@
+  -LE:/C++Projects/Compiler2/./lib  -lTools E:/C++Projects/Compiler2/bin/libFront.a -lIR E:/C++Projects/Compiler2/bin/libjsoncpp.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

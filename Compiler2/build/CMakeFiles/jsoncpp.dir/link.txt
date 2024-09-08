@@ -1,0 +1,2 @@
+D:\w64devkit\bin\ar.exe qc E:\C++Projects\Compiler2\bin\libjsoncpp.a CMakeFiles/jsoncpp.dir/src/third_party/jsoncpp/jsoncpp.cpp.obj
+D:\w64devkit\bin\ranlib.exe E:\C++Projects\Compiler2\bin\libjsoncpp.a

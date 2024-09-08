@@ -1,0 +1,3 @@
+D:\CMake\bin\cmake.exe -E rm -f CMakeFiles\compiler.dir/objects.a
+D:\w64devkit\bin\ar.exe qc CMakeFiles\compiler.dir/objects.a @CMakeFiles\compiler.dir\objects1.rsp
+D:\w64devkit\bin\c++.exe -Wall -Wl,--whole-archive CMakeFiles\compiler.dir/objects.a -Wl,--no-whole-archive -o E:\C++Projects\Compiler2\bin\compiler.exe -Wl,--out-implib,E:\C++Projects\Compiler2\bin\libcompiler.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\compiler.dir\linkLibs.rsp
